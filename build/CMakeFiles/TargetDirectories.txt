@@ -1,0 +1,6 @@
+E:/C++/Projects/VulkanTutorial/build/CMakeFiles/VulkanTutorial.dir
+E:/C++/Projects/VulkanTutorial/build/CMakeFiles/ALL_BUILD.dir
+E:/C++/Projects/VulkanTutorial/build/CMakeFiles/ZERO_CHECK.dir
+E:/C++/Projects/VulkanTutorial/build/glfw/CMakeFiles/ALL_BUILD.dir
+E:/C++/Projects/VulkanTutorial/build/glfw/src/CMakeFiles/glfw.dir
+E:/C++/Projects/VulkanTutorial/build/glfw/src/CMakeFiles/update_mappings.dir

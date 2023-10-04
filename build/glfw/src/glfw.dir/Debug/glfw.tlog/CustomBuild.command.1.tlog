@@ -1,0 +1,10 @@
+^E:\C++\PROJECTS\VULKANTUTORIAL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/C++/Projects/VulkanTutorial -BE:/C++/Projects/VulkanTutorial/build --check-stamp-file E:/C++/Projects/VulkanTutorial/build/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

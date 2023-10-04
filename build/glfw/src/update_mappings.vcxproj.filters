@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\C++\Projects\VulkanTutorial\build\CMakeFiles\6bd37380dd587b3156cc3bb32119ed55\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\C++\Projects\VulkanTutorial\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\C++\Projects\VulkanTutorial\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\C++\Projects\VulkanTutorial\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="E:\C++\Projects\VulkanTutorial\build\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E83E190F-6C57-38FF-BB12-1294C151D99D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FD624FE4-1CF5-3784-9751-8C21955CEC5A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

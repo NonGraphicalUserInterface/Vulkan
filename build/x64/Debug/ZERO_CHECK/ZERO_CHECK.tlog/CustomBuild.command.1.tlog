@@ -1,0 +1,10 @@
+^E:\C++\PROJECTS\VULKANTUTORIAL\BUILD\CMAKEFILES\9A24E15A2F2E255F6AA5C33A80210AEC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/C++/Projects/VulkanTutorial -BE:/C++/Projects/VulkanTutorial/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/C++/Projects/VulkanTutorial/build/VulkanTutorial.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
